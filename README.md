@@ -8,7 +8,7 @@ Maker Media GmbH
 
 ### Der günstige Feinstaubsensor Vindriktning von Ikea lädt zum Hacken ein: Mit einem ESP8266-Board und ein paar Lötverbindungen wird er zum echten IoT-Sensor, mit dem sich Staubbelastungen aufzeichnen und überwachen lassen.
 
-![Picture](https://github.com/MakeMagazinDE/vindriktning2adafruitio/blob/master/aufmacher.jpg) 
+![Picture](https://github.com/MakeMagazinDE/vindriktning2adafruitio/blob/master/Aufmacher.jpg) 
 
 Hier finden Sie den Arduino-Code zum Artikel.
 
