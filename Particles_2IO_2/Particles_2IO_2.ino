@@ -82,7 +82,7 @@ void loop() {
   io.run();
   
   // Sensor abfragen
-  spm25 = 25; //getSensorData();
+  spm25 = getSensorData();
   delay(500);
 
   if (spm25 > 0)
